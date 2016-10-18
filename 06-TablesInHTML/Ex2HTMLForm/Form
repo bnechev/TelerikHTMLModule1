@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form</title>
+</head>
+<form>
+  Member name:<input type="text" name="Member">*req
+  <br>
+  Email:<input type="text" name="Email">*req
+  <br>
+  School:<input type="text" name="School">*req
+  <br>
+</form>
+<br>
+<input type="image" src="submit-button.jpg" height="20" width="80" border="0" alt="Submit">
+</html>
